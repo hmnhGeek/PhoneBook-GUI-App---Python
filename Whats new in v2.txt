@@ -1,0 +1,23 @@
+What's new in v2 of ePhoneBook?
+===============================
+
+1. Change your user id and password
+------------------------------------
+Now you can change your ePhoneBook user id and password.
+What you need to do is just click on Help in menubar of the login page,
+then click on "Change my login details". You will be asked to login. 
+Login with your current id and password, then change your id or password
+or both after successful login.
+
+2. Send email to any of your contacts
+-------------------------------------
+Yes, you can now send a plain text email to anyone in your contact list 
+by just clicking on their email id. You will be then taken to login page.
+Just login with your "Email ID". If you use gmail, don't enter smtp server 
+and smtp port number that you will be asked for in the login, else, you have 
+to enter it. If you don't know your smtp server and smtp port, then just
+click the link on login page that says "Find my server and port", after you
+enter your email id. Please don't click this link without entering your 
+email id.
+______________________________________________________________________________
+
